@@ -1,0 +1,8 @@
+{
+   "secretKey":"%s",
+    "accessKey":"%s",
+    "apiUri":"%s",
+    "accountId":"swr",
+  "identifier":"3gObbbISo86MUwSo4WqUkq",
+  "identifierType":"email"
+}

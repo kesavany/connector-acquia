@@ -1,0 +1,9 @@
+{
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"%s",
+  "startDate":"2014-12-01"
+  "dataExport":"person",
+  "identifierTypes":"email"
+}

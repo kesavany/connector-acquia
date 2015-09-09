@@ -1,0 +1,8 @@
+{
+  "secretKey":"%s",
+   "accessKey":"%s",
+   "apiUri":"%s",
+   "accountId":"%s",
+  "identifier":"%s",
+  "identifierType":"%s"
+}

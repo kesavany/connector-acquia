@@ -1,0 +1,8 @@
+{
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"%s",
+"payload":[{"identity":"test@acquia.com", "identity_source":"email", "event_name":"updatePerson", "event_source":"email", "event_date":"2015-03-06 15:10:15.000", "person_udf1":"helloworld"},{"identity":"test@acquia.com", "identity_source":"email", "event_name":"updatePerson", "event_source":"email", "event_date":"2015-03-06 15:10:15.000", "person_udf1":"helloworld"}]
+
+}

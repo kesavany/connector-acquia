@@ -1,0 +1,9 @@
+{
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"%s",
+ "identifier":"3gObbbISo86MUwSo4WqUkq",
+ "personTables" : "person",
+ "identifierType" : "email"
+}

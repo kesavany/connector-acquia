@@ -1,0 +1,8 @@
+{
+  "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"WS02SANOX",
+  "eventName":"xx",
+  "type":""
+}

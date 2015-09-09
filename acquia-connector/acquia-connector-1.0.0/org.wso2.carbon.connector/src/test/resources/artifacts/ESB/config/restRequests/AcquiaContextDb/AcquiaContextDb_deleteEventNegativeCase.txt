@@ -1,0 +1,7 @@
+{
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"wso2",
+ "eventName":"unkn"
+}

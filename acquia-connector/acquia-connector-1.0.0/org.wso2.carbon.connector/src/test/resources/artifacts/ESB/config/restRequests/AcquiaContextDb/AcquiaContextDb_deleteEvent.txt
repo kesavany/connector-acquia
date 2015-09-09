@@ -1,0 +1,7 @@
+{
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"%s",
+"eventName":"xx"
+}

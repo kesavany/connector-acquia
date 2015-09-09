@@ -1,0 +1,8 @@
+ { 
+  "secretKey":"%s",
+   "accessKey":"%s",
+   "apiUri":"%s",
+   "accountId":"wso2",
+  "startDate":"03-13-2015",
+  "dataExport":"touch"
+}

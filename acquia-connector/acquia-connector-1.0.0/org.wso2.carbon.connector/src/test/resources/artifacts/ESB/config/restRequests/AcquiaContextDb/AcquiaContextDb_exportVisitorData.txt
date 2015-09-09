@@ -1,0 +1,8 @@
+ { 
+ "secretKey":"%s",
+  "accessKey":"%s",
+  "apiUri":"%s",
+  "accountId":"%s",
+  "startDate":"2014-03-13",
+  "dataExport":"touch"
+  }
